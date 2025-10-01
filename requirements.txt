@@ -1,33 +1,17 @@
-# Churn Prediction System - Requirements
-# Core Data Science Libraries
-pandas>=1.5.0
-numpy>=1.21.0
-scikit-learn>=1.1.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-
-# Machine Learning
-xgboost>=1.6.0
-
-# Web Framework
-streamlit>=1.28.0
-plotly>=5.15.0
-
-# Report Generation
-reportlab>=3.6.0
-
-# Jupyter Notebooks
-jupyter>=1.0.0
-ipywidgets>=7.6.0
-
-# Utilities
-python-dateutil>=2.8.0
-Pillow>=8.3.0
-
-# Optional: Enhanced visualizations
-shap>=0.41.0
-
-# Development & Testing (optional)
-pytest>=7.0.0
-black>=22.0.0
-flake8>=4.0.0
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+streamlit
+plotly
+reportlab
+jupyter
+ipywidgets
+python-dateutil
+Pillow
+shap
+pytest
+black
+flake8
